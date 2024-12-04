@@ -24,11 +24,3 @@
 ## 📜 License
 
 This project is licensed under the MIT License - see the **[LICENSE](LICENSE)** file for details.
-
-## 💖 Thanks for using HitRadio!
-
-Your support is greatly appreciated! If you enjoy using this bot, please consider voting for it and inviting it to other servers.
-
----
-
-Made with ❤️ by **Prism3**
